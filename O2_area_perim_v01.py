@@ -38,7 +38,7 @@ perimeter = 2 * (width + height)
 
 print()
 print(f"Area: {area:.1f} square units")
-print(perimeter)
+print(f"Perimeter: {perimeter:.1f} square units")
 
 
 
